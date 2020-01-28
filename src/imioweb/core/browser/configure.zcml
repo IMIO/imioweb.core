@@ -18,4 +18,13 @@
       directory="static"
       />
 
+  <browser:page
+      name="faceted-map-geojson-popup"
+      for="*"
+      class=".view.FacetedGeoJSONPopup"
+      permission="zope2.View"
+      layer="imioweb.core.interfaces.IImiowebCoreLayer"
+      />
+
+
 </configure>
