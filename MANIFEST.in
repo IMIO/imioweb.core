@@ -2,3 +2,7 @@ graft src/imioweb
 graft docs
 include *.rst
 global-exclude *.pyc
+include *.GPL
+include *.yml
+exclude *.txt
+exclude Makefile
