@@ -5,7 +5,8 @@ Changelog
 1.0a2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Move Login link from User actions to Site actions
+  [laulaz]
 
 
 1.0a1 (2020-01-29)
