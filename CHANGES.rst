@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a2 (unreleased)
+1.0a2 (2020-01-29)
 ------------------
 
 - Move Login link from User actions to Site actions
