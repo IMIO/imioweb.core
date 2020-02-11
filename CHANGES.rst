@@ -5,7 +5,8 @@ Changelog
 1.0a3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Override listing_summary.pt to get french translation on mosaic.
+  [bsuttor]
 
 
 1.0a2 (2020-01-29)
