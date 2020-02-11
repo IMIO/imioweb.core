@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a3 (unreleased)
+1.0a3 (2020-02-11)
 ------------------
 
 - Override listing_summary.pt to get french translation on mosaic.
