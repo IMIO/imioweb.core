@@ -5,7 +5,8 @@ Changelog
 1.0a4 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- WEB-4089 : Add recaptcha to contact-info form
+  [boulch]
 
 
 1.0a3 (2020-02-11)
