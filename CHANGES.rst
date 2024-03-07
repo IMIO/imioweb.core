@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a4 (unreleased)
+1.0a4 (2024-03-07)
 ------------------
 
 - WEB-4089 : Add recaptcha to contact-info form
