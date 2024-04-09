@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a5 (unreleased)
+1.0a5 (2024-04-09)
 ------------------
 
 - WEB-4089 : Fix recaptcha field must not be required

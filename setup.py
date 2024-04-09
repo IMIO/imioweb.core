@@ -16,7 +16,7 @@ long_description = "\n\n".join(
 
 setup(
     name="imioweb.core",
-    version="1.0a5.dev0",
+    version="1.0a5",
     description="Core package for imioweb",
     long_description=long_description,
     # Get more from https://pypi.org/classifiers/
