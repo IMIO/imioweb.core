@@ -5,7 +5,8 @@ Changelog
 1.0a5 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- WEB-4089 : Fix recaptcha field must not be required
+  [boulch]
 
 
 1.0a4 (2024-03-07)
