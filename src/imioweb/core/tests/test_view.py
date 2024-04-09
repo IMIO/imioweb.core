@@ -32,10 +32,10 @@ class TestView(unittest.TestCase):
         )
 
         taxonomy_test = schema.Set(
-            title=u"taxonomy_test",
-            description=u"taxonomy description schema",
+            title="taxonomy_test",
+            description="taxonomy description schema",
             required=False,
-            value_type=schema.Choice(vocabulary=u"collective.taxonomy.test"),
+            value_type=schema.Choice(vocabulary="collective.taxonomy.test"),
         )
         portal_types = api.portal.get_tool("portal_types")
         fti = portal_types.get("Document")

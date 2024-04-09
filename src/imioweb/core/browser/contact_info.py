@@ -10,10 +10,7 @@ from zope import schema
 class IContactForm(IBaseContactForm):
 
     directives.widget("recaptcha", ReCaptchaFieldWidget)
-    recaptcha = schema.TextLine(
-        title=u'ReCaptcha',
-        required=True
-    )
+    recaptcha = schema.TextLine(title="ReCaptcha", required=True)
 
 
 class ContactForm(BaseContactForm):
